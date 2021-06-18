@@ -1,4 +1,4 @@
-# Computer-Vision
+# Image processing
 Basic processing on images with Opencv including: 
   * reading and displaying the image
   * applying Laplacian filter
