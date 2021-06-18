@@ -1,13 +1,13 @@
 # Image processing
 Basic processing on images with Opencv including: 
-  * reading and displaying the image
-  * applying Laplacian filter
-  * up and down sampling
-  * quantization
+  * Reading and displaying the image
+  * Applying Laplacian filter
+  * Up and down sampling
+  * Quantization
   * Adding bias
-  * canny edge detector
+  * Canny edge detector
   * Laplacian transformation
-  * edge detection
+  * Edge detection
   * Scailing
   * Translation
   * Histogram Analysis
@@ -19,4 +19,7 @@ Basic processing on images with Opencv including:
   * Frequency Domain Filter
   * Ideal Low Pass Filter / Ideal High Pass Filter
   * Gaussian Smoothing
+  * Keras
+  * Data augmentation
+  * Image classification
 
