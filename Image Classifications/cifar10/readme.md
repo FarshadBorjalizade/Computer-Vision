@@ -1,1 +1,3 @@
-asdas 
+**The transfer learning experience with VGG16 and Cifar 10 dataset**
+In this project I have gotten an accuracy greater than 85% (91% epoch 20) with Cifar-10 using transfer learning, I used VGG16 and I applied a very low constant learning rate and I implemented the function upsampling to get more data points for processing.
+Nowadays we are having a very good time for machine learning, we have a lot of famous models with great results that make predictions fast and with high accuracy. Consequently, we should use those tools to apply in our daily predictions focusing on the goals of our models and not only in the footprint of it. For this reason, we need to understand our dataset and try to apply the correct model, doing the necessary preprocessing of the dataset and the corrections in those famous model if it’s necessary.
