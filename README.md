@@ -19,7 +19,14 @@ Basic processing on images with Opencv including:
   * Frequency Domain Filter
   * Ideal Low Pass Filter / Ideal High Pass Filter
   * Gaussian Smoothing
+  * 
+# Machine Learning & Deep Learning
+  * Tensorflow v.2
   * Keras
-  * Data augmentation
-  * Image classification
+  * Preprocessig
+  * CNNs
+  * Data Augmentation
+  * Image Classification
+  * Transfer Learning
+  * 
 
